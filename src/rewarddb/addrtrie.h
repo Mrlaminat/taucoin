@@ -6,6 +6,7 @@
 #include <algorithm>
 #include <sstream>
 #include <boost/algorithm/string.hpp>
+#include <vector>
 
 namespace TAUAddrTrie
 {
